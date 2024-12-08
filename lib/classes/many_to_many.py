@@ -36,3 +36,8 @@ class Magazine:
 
     def contributing_authors(self):
         pass
+
+# just started ts
+class TopicArea:
+    def __init__(self, name):
+        self.name = name
